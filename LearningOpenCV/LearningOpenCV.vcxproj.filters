@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="010.图像像素值统计.cpp">
+    <ClCompile Include="020.图像直方图反向投影.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
