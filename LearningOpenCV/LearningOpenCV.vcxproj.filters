@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="030.OpenCV自定义的滤波器.cpp">
+    <ClCompile Include="040.二值图像介绍.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
