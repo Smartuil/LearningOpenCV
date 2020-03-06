@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="050.二值图像分析 – 矩形面积与弧长.cpp">
+    <ClCompile Include="060.二值图像分析—霍夫直线检测二.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
