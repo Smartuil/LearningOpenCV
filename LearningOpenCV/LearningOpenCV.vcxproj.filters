@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="060.二值图像分析—霍夫直线检测二.cpp">
+    <ClCompile Include="070.形态学应用—用基本梯度实现轮廓分析.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
