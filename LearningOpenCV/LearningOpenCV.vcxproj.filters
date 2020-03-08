@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="070.形态学应用—用基本梯度实现轮廓分析.cpp">
+    <ClCompile Include="080.视频分析—背景消除与前景ROI提取.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
