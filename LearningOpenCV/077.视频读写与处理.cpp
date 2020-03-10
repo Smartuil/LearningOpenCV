@@ -5,7 +5,7 @@ using namespace cv;
 using namespace std;
 void process_frame(Mat &image, int opts);
 int main(int argc, char** argv) {
-	VideoCapture capture(0);
+	VideoCapture capture("D:/images/vtest.avi");
 
 	if (!capture.isOpened()) {
 		printf("could not open camera...\n");
