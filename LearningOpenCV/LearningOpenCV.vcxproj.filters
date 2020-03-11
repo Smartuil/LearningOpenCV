@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="100.HOG特征与行人检测.cpp">
+    <ClCompile Include="110.KMeans 数据分类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
