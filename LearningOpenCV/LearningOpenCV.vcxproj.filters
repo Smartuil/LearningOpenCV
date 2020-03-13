@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="110.KMeans 数据分类.cpp">
+    <ClCompile Include="120.二维码检测与识别.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
