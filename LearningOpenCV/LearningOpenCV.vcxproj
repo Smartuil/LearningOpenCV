@@ -125,7 +125,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="120.二维码检测与识别.cpp" />
+    <ClCompile Include="129.OpenCV DNN 调用openpose模型实现姿态评估.cpp" />
+    <ClCompile Include="130.OpenCV DNN 支持YOLO对象检测网络运行.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
