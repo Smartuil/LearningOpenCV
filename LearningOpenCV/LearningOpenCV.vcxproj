@@ -18,6 +18,10 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="139.案例：识别0～9印刷体数字 —Part1.cpp" />
+    <ClCompile Include="140.案例：识别0～9印刷体数字 —Part2.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{26BDF4CA-A5AA-4986-982C-87D37C428BF5}</ProjectGuid>
@@ -124,10 +128,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="129.OpenCV DNN 调用openpose模型实现姿态评估.cpp" />
-    <ClCompile Include="130.OpenCV DNN 支持YOLO对象检测网络运行.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
